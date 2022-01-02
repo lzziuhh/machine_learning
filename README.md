@@ -1,2 +1,3 @@
 # machine_learning
-## YoloX + Kaggle competition - cots dectection
+## 1. YoloX + Kaggle competition - cots dectection( 2022.01.02)
+
